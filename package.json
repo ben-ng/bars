@@ -1,5 +1,5 @@
 {
-  "name": "bars",
+  "name": "jstrace-bars",
   "version": "1.2.2",
   "repository": "jstrace/bars",
   "description": "Ascii bar charting",
