@@ -30,7 +30,7 @@ $ npm install jstrace/bars
 ## Example
 
 ```js
-var bars = require('bars');
+var bars = require('jstrace-bars');
 var bytes = require('bytes');
 
 var data = {
